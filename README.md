@@ -1,4 +1,4 @@
-# Megabyte Chat
+# Gallery
 Una aplicación web de galería, donde subes una foto, y puedes ver todas las fotos que se han subido al sitio. Las imagenes se guardan en Cloudinary.
 
 ## Backend
